@@ -1,6 +1,6 @@
 /* 	Author: Zack Milne
 	Date: 	Mar 4, 2021
-	Description: Functions for problem 2.
+	Description: Functions for m4p2.
 */
 #include<stdio.h>
 #define SIZE 30    // Placed at the beginning of your code
